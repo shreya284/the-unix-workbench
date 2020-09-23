@@ -25,3 +25,4 @@ function guess_file_count {
 
 file_count=$(ls -1A | wc -l)
 guess_file_count file_count
+
