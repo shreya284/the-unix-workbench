@@ -1,5 +1,6 @@
-# Number of lines in guessinggame.sh are 28
+# guessinggame.sh
 
+#Number of lines in guessinggame.sh is 28
 
 #Time and date to create guessinggame.sh is 22nd sept 13:07:10
 
